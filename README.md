@@ -4,7 +4,7 @@ This project is a collection of Java types which are inspired by the Rust progra
 
 ## Types
 
-### Result
+### [Result](src/main/java/org/kellpossible/rustytypes/Result.java)
 
 This type is inspired by [Rust's Result enum](https://doc.rust-lang.org/std/result/).
 
